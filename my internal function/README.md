@@ -1,10 +1,10 @@
 # MY INTERNAL FUNCTION
 for the sake of maintenance and table analizing. this function need table name as a parameter. call this function by
 
-'''
+```
 import myInternalFunc
 x = myInternalFunc(table_name)
-'''
+```
 
 it has saveral callable method to allow you get to know better to your dataframe 
 1. **enumerateDistinct**
