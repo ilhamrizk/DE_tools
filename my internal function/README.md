@@ -2,7 +2,7 @@
 for the sake of maintenance and table analizing. this function need table name as a parameter. call this function by
 
 ```
-import myInternalFunc
+from TableAnalyzing import myInternalFunc
 x = myInternalFunc(table_name)
 ```
 
