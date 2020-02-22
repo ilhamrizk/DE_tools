@@ -24,6 +24,7 @@ cheap version of 'getDictionary'
 8. **getDictionary**
 get all dictionary needs, such as 'attributes','data_type', 'examples','count_all','count_distinct','count_null', and 'null_percentage'. takes one boolean argument but not compulsory, since the defaulf value of description is False
 
+Commands to call function:
 ```
 df_distinct = x.enumerateDistinct(threshold)
 df_min = x.minValues(rows)
